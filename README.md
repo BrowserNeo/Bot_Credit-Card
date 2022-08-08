@@ -1,4 +1,4 @@
 # Bot_Credit-Card
 Телеграм бот на питоне по созданию номеров банковских карт
 
-https://cdn.fishki.net/upload/post/2019/08/28/3069397/tn/algoritm-luna.png
+![algoritm-luna](https://user-images.githubusercontent.com/106055633/183480541-7d2e8904-dfa1-40bc-96e0-62ee86234b69.png)
